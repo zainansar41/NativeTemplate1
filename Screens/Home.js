@@ -3,8 +3,7 @@ import React from 'react'
 
 import {data} from '../Help/NewList.js';
 
-import ItemCard from '../Components/ItemCard.js';
-
+import ItemCard from '../components/ItemCard.js';
 
 
 export default function Home() {
